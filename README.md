@@ -99,7 +99,14 @@ and click on the connect icon
 
 
 ### output video and screen shots of pick and place 
-
+![WhatsApp Image 2024-04-22 at 13 34 53_961f9321](https://github.com/DaisyRavi/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151394386/02cec840-567e-49ff-8f4e-236d7a6f0586)
+![WhatsApp Image 2024-04-22 at 13 34 54_bd5a7fd9](https://github.com/DaisyRavi/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151394386/77a05ae1-46e1-4b3c-94b7-7e862a6a9184)
+![WhatsApp Image 2024-04-22 at 13 34 54_6f5513e0](https://github.com/DaisyRavi/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151394386/a1337e10-2840-4370-9b85-3f1a5ebcbb32)
+![WhatsApp Image 2024-04-22 at 13 34 55_9770aa0e](https://github.com/sakamalesh/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149148235/4f637de6-a0c1-4a8f-8c8e-4c58f2d01953)
+![WhatsApp Image 2024-04-22 at 13 34 55_1b314813](https://github.com/sakamalesh/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149148235/a3f68199-bbb0-4dce-99a7-9618fa4c8125)
+![WhatsApp Image 2024-04-22 at 13 34 56_8336a82d](https://github.com/sakamalesh/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149148235/e5c3ed20-606c-4255-9689-68e0da076b22)
+![WhatsApp Image 2024-04-22 at 13 34 56_d1c7ac0f](https://github.com/sakamalesh/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149148235/63b8d0af-762b-4318-a8f7-47e63b4cf7b0)
+![WhatsApp Image 2024-04-22 at 13 34 56_009ef117](https://github.com/sakamalesh/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149148235/99af7d81-8f1e-42aa-81fa-00ad5c4b64b7)
 
 
 
@@ -108,7 +115,7 @@ and click on the connect icon
 
 ### Results: 
 
-
+The Pick and place is done successfully.
 
 
 
